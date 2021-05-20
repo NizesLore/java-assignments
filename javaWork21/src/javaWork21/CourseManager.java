@@ -3,7 +3,7 @@ package javaWork21;
 public class CourseManager {
 
 	public void add (Course course) {
-		System.out.println(course.getName() + "  kayıt olundu");
+		System.out.println(course.getName() +     "  kayıt olundu");
 		
 	}
 	public void delete (int id) {

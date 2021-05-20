@@ -6,7 +6,7 @@ import CoffeeShops.concretes.NeroCustomerManager;
 import CoffeeShops.concretes.StarbucksCustomerManager;
 import CoffeeShops.entities.Customer;
 
-public class Main {
+public class Main { 
 
 	public static void main(String[] args) {
 		
